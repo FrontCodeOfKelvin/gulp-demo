@@ -79,3 +79,7 @@ config/index.js文件
 ```
 useWebpack: false // 是否启用webpack
 ```
+
+## 使用问题
+1、使用过程中gulp-imagemin可能没有安装成功
+* 切换目录到node_modules/gulp-imagemin/下，执行```npm i```
